@@ -2,7 +2,7 @@
 
 To setup Android Studio:
 
-"<h2>Getting Started</h2>
+<h2>Getting Started</h2>
 
 Google Glass runs a modified version of Android, and so much of the code and tools you will use are the same.
 
@@ -14,9 +14,7 @@ To download these tools, press <em>Configure > SDK Manager</em>. Under <em>Andro
 
 Press <em>Install 2 packages...</em> and accept the license for each tool. Once the downloading finishes, close out of the SDK manager.”
 
-To run the project:
-
-"<h2>Running your Glass Activity</h2>
+<h2>Running your Glass Activity</h2>
 
 Before you can actually run your activity on your Glass, you first need to enable testing. On your Glass, go to <em>Settings > Device Info > Turn on debug</em>. This will let you test apps on your Glass.
 
@@ -35,4 +33,4 @@ An "Edit Configuration" screen will appear. On this screen, make sure that your 
 
 Press Run. If a pop-up appears saying "Configuration is still incorrect", select <em>Continue Anyway</em>.
 
-Android Studio should build and run the app on your device. To see the app in action, tap your Glass to wake it up, tap again to open up the list of apps, and tap one last time on the item named "Shopping List". Your app is now running on your Google Glass!"
+Android Studio should build and run the app on your device. To see the app in action, tap your Glass to wake it up, tap again to open up the list of apps, and tap one last time on the item named "Shopping List". Your app is now running on your Google Glass!
