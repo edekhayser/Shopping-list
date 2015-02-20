@@ -109,12 +109,6 @@ public class MainActivity extends Activity {
     }
 
     @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.activity_menu, menu);
-        return true;
-    }
-
-    @Override
     public boolean onMenuItemSelected(int featureId, MenuItem item) {
         if (featureId == WindowUtils.FEATURE_VOICE_COMMANDS) {
             Intent i = new Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH);
